@@ -54,7 +54,7 @@ msa:
 > config server 연동
 
 - spring.application.name (applicationName 작성)
-- spring.config.impoer (config server uri)
+- spring.config.import (config server uri)
 - spring.profiles.active (profileName 작성)
 
 ```yaml
